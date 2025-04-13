@@ -1,4 +1,4 @@
-# Course Data Directory Instructions for Training Team
+# Course Data Instructions for Training Team
 
 ## Purpose
 This directory contains all datasets and supplementary materials which are essential for the course. The files here support the learning objectives and provide the necessary resources for attendees.
