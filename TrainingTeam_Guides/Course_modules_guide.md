@@ -1,4 +1,4 @@
-# Course Modules Directory Instructions for Training Team
+# Course Modules Instructions for Training Team
 
 ## Purpose
 This directory contains all course module files, including presentations, practical manuals, and supplementary materials essential for delivering the course content effectively.
