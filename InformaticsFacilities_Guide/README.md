@@ -1,45 +1,48 @@
 <img src="https://coursesandconferences.wellcomeconnectingscience.org/wp-content/themes/wcc_courses_and_conferences/dist/assets/svg/logo.svg" width="300" height="50"> 
 
-# Add Course Title
+# 📘 Course Computer Lab Specifications Guide
 
-[Wellcome Connecting Science GitHub Home Page](https://github.com/WCSCourses) <br /> 
-[Wellcome Connecting Science Website](https://coursesandconferences.wellcomeconnectingscience.org/)
+This guide provides comprehensive details and requirements for computer labs used in global and Hinxton-based courses. Ensuring the setup meets these specifications will help create an effective, comfortable, and efficient training environment.
 
-Add one line description of the course (the same needs to be added on the right side of the page in the description)
+## 🌐 Global Courses
 
-### Summary
+### 🖥️ Computer Lab Requirements
 
-Add text here
+**Capacity:** 20-30 Participants
 
-### Target Audience
+#### **Room Setup and Comfort:**
+- **Comfortable Workstations:** Ergonomically arranged desks and adjustable chairs in a well-ventilated, air-conditioned space.
+- **Adequate Space:** Minimum of 1.2 meters between participants to facilitate comfortable seating and easy movement.
 
-Add text here
+#### **Technical Infrastructure:**
+- **Power Sockets:** At least 30-40 power outlets, evenly distributed to accommodate multiple devices per participant.
+- **Internet Connectivity:** Reliable high-speed Wi-Fi capable of sustained bandwidth for simultaneous access by all participants, trainers, and remote attendees.
 
-### Learning outcomes
+#### **Audio-Visual and Hybrid Setup:**
+- **Projector and Screen:** High-resolution projector (HD or above) and large projector screen or interactive whiteboard.
+- **Audio System:** Functional AV system with wireless microphones, speakers, and ability to connect to multiple devices.
+- **Hybrid Capability:** Zoom or Microsoft Teams-enabled setup with a dedicated camera, microphone, and high-quality audio system for seamless remote engagement.
 
-Add text here
+#### **Additional Facilities:**
+- **Support Staff Area:** Extra workspaces (tables/chairs) for trainers and technical support personnel.
+- **Backup Power:** Uninterrupted Power Supply (UPS) or backup generators to mitigate potential disruptions.
+- **Interactive Tools:** Whiteboard and flipchart markers available for live demonstrations and interactive sessions.
+- **Refreshment Area:** Designated break area with drinking water, coffee, tea, snacks, and seating to refresh participants between sessions.
 
-### Programme
+---
 
-Add text here
+### 💻 Computer Workstation Specifications
 
-**Course Runs**      
+**Capacity:** 20-30 Participants (plus one additional workstation for the training team)
 
-| Course Date | Course Title | Location |Citation DOI |
-|-------------|--------------|----------|-------------|
-| Add Course Run Dates  | [Add Course Run Title](Add Github Repository link) | Location|Citation DOI |
-
-******
-
-### Citing and Re-using Course Material
-
-The course data are free to reuse and adapt with appropriate attribution. All course data in these repositories are licensed under the <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</a>. <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /> 
-
-Each course landing page is assigned a DOI via Zenodo, providing a stable and citable reference. These DOIs can be found on the respective course landing pages and can be included in CVs or research publications, offering a professional record of the course contributions.
-
-### Interested in attending a course?
-
-Take a look at what courses are coming up at [Wellcome Connecting Science Courses & Conference Website](https://coursesandconferences.wellcomeconnectingscience.org/our-events/).
+#### **Minimum Hardware Specifications:**
+- **Brands:** Dell, HP, or Lenovo
+- **Processor:** Intel Core i5 or i7 
+- **Memory:** 8 GB minimum, recommended 16 GB RAM
+- **Storage:** Minimum 256 GB SSD (Recommended: 500 GB SSD or 1 TB HDD)
+- **Monitor:** Minimum 22-inch external monitors with required connecting cables
+- **Accessories:** Wired mouse (with mouse pad), full-size keyboard, and laptop chargers
+- **Software:** Pre-installed with Windows 11 Pro, browsers (Chrome and Firefox) and Microsoft Office suite
 
 ---
 
