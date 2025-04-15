@@ -12,11 +12,11 @@ This guide provides comprehensive details and requirements for computer labs use
 
 #### **Room Setup and Comfort:**
 - **Comfortable Workstations:** Ergonomically arranged desks and adjustable chairs in a well-ventilated, air-conditioned space.
-- **Adequate Space:** Minimum of 1.2 meters between participants to facilitate comfortable seating and easy movement.
+- **Adequate Space:** Ideally minimum of 1.2 meters between participants to facilitate comfortable seating and easy movement.
 
 #### **Technical Infrastructure:**
 - **Power Sockets:** At least 30-40 power outlets, evenly distributed to accommodate multiple devices per participant.
-- **Internet Connectivity:** Reliable high-speed Wi-Fi capable of sustained bandwidth for simultaneous access by all participants, trainers, and remote attendees.
+- **Internet Connectivity:** Reliable high-speed Wi-Fi capable of sustained bandwidth for simultaneous access by all participants, trainers, and remote attendees. 
 
 #### **Audio-Visual and Hybrid Setup:**
 - **Projector and Screen:** High-resolution projector (HD or above) and large projector screen or interactive whiteboard.
@@ -42,7 +42,7 @@ This guide provides comprehensive details and requirements for computer labs use
 - **Storage:** Minimum 256 GB SSD (Recommended: 500 GB SSD or 1 TB HDD)
 - **Monitor:** Minimum 22-inch external monitors with required connecting cables
 - **Accessories:** Wired mouse (with mouse pad), full-size keyboard, and laptop chargers
-- **Software:** Pre-installed with Windows 11 Pro, browsers (Chrome and Firefox) and Microsoft Office suite
+- **Software:** Ideally pre-installed with Windows 11 Pro, browsers (Chrome and Firefox) and Microsoft Office suite. 
 
 ---
 
