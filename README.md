@@ -1,33 +1,49 @@
 <img src="https://coursesandconferences.wellcomeconnectingscience.org/wp-content/themes/wcc_courses_and_conferences/dist/assets/svg/logo.svg" width="300" height="50"> 
 
-# Add Course Title
+# 🧭 Welcome to the Course Resource Repository
 
 [Wellcome Connecting Science GitHub Home Page](https://github.com/WCSCourses) <br /> 
 [Wellcome Connecting Science Website](https://coursesandconferences.wellcomeconnectingscience.org/)
 
-Add one line description of the course (the same needs to be added on the right side of the page in the description)
+This repository is designed to support the **training team** and **course participants** by providing clear and structured documentation for every stage of the course—from preparation to hands-on execution.
 
-### Summary
+## 📂 Guide Categories
 
-Add text here
+We’ve organized our resources into three main categories to support different roles and needs:
 
-### Target Audience
+## 🧑‍🏫 Training Team Guides
 
-Add text here
+These guides are intended to help instructors and course organizers with **content development, data management, and session planning**. They ensure consistent formatting, smooth integration with virtual tools, and streamlined content delivery.
 
-### Learning outcomes
+📘 **Key Guides:**
+- [Course Data Guide](https://github.com/WCSCourses/WCS_Informatics_Guides/blob/main/TrainingTeam_Guides/Course_data_guide.md) – Organizing, naming, and uploading datasets and practical materials.
+- [Course Module Guide](https://github.com/WCSCourses/WCS_Informatics_Guides/blob/main/TrainingTeam_Guides/Course_modules_guide.md) – Structuring training modules to align with learning outcomes.
+- [Presentation Guide](https://github.com/WCSCourses/WCS_Informatics_Guides/blob/main/TrainingTeam_Guides/Slides_guide.md) – Managing session slides, internal vs. shared folders, upload process.
 
-Add text here
+## 👩‍💻 Informatics Installation & Setup Guides
 
-### Programme
+These guides help participants prepare their **local or cloud environments** before the course. Having a consistent and functional environment is essential for smooth participation in practical sessions.
 
-Add text here
+🔧 **Key Guides:**
+- [Virtualbox Guide](https://github.com/WCSCourses/WCS_Informatics_Guides/blob/main/Installation_Guides/VM_Guide.md) – Setting up and running VMs for the course.
+- [Docker Setup](https://github.com/WCSCourses/WCS_Informatics_Guides/blob/main/Installation_Guides/Docker_guide.md) – Installing Docker and running training containers.
+- [Google Colab](https://github.com/WCSCourses/WCS_Informatics_Guides/blob/main/Installation_Guides/Google_Colab.md) – Using Google Colab for exercises without local installation.
+- [Linux Learning Resources](https://github.com/WCSCourses/WCS_Informatics_Guides/blob/main/Installation_Guides/linux_learning.md) – Introductory resources for working in Linux environments.
 
-**Course Runs**      
+## 🏢 Informatics Facilities Setup Guide
 
-| Course Date | Course Title | Location |Citation DOI |
-|-------------|--------------|----------|-------------|
-| Add Course Run Dates  | [Add Course Run Title](Add Github Repository link) | Location|Citation DOI |
+For **in-person courses**, we provide setup requirements for computer labs and hired workstations to ensure participants have the correct environment ready upon arrival.
+
+📘 **Key Guide:**
+- [Informatics Facilities Guide](https://github.com/WCSCourses/WCS_Informatics_Guides/blob/main/InformaticsFacilities_Guide/README.md) – Includes lab specs, hybrid setup requirements, power and internet setup, workstation/laptop specs, and more.
+
+---
+
+## ✅ Why Reviewing Materials in Advance Matters
+
+To deliver a successful and engaging course experience, it’s essential that training teams **review the provided materials ahead of time**. This reduces last-minute troubleshooting and improves confidence and clarity for everyone involved.
+
+📫 For any questions or suggestions, please reach out to the **Informatics Team at Wellcome Connecting Science**.
 
 ******
 
