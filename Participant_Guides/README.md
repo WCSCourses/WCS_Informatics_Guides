@@ -9,7 +9,7 @@
 
 Each guide is tailored to walk you through the steps of setting up your environment, whether you're using a personal machine or a virtual/cloud-based setup. Follow these before the training begins to avoid setup delays during sessions.
 
-### 1. [💾 VirtualBox Installation Guide](https://github.com/WCSCourses/WCS_Informatics_Guides/blob/main/Participant_Guides/VM_Guide.md)
+### 1. [💾 VirtualBox Installation Guide](https://github.com/WCSCourses/WCS_Informatics_Guides/blob/main/Installation_Guides/VM_Guide.md)
 Learn how to install and run **VirtualBox**, a virtualization tool that allows you to use a full Linux operating system on your Windows or Mac machine. This is helpful for accessing a pre-configured training environment that mirrors what the trainers use.
 
 **What you'll find:**
@@ -20,7 +20,7 @@ Learn how to install and run **VirtualBox**, a virtualization tool that allows y
 
 ---
 
-### 2. [🐳 Docker Setup Instructions](https://github.com/WCSCourses/WCS_Informatics_Guides/blob/main/Participant_Guides/Docker_guide.md)
+### 2. [🐳 Docker Setup Instructions](https://github.com/WCSCourses/WCS_Informatics_Guides/blob/main/Installation_Guides/Docker_guide.md)
 A guide to setting up **Docker**, which allows you to run containerized training environments. This method is faster and more lightweight than a full virtual machine, especially useful for running command-line tools and reproducible analysis pipelines.
 
 **What you'll find:**
@@ -30,7 +30,7 @@ A guide to setting up **Docker**, which allows you to run containerized training
 
 ---
 
-### 3. [🌐 Google Colab Quick Start Guide](https://github.com/WCSCourses/WCS_Informatics_Guides/blob/main/Participant_Guides/Google_Colab.md)
+### 3. [🌐 Google Colab Quick Start Guide](https://github.com/WCSCourses/WCS_Informatics_Guides/blob/main/Installation_Guides/Google_Colab.md)
 Google Colab allows you to write and execute Python/R code in your browser using Google Drive. It’s a great option for participants who cannot install software locally or who want to test scripts in a cloud environment.
 
 **What you'll find:**
@@ -40,7 +40,7 @@ Google Colab allows you to write and execute Python/R code in your browser using
 
 ---
 
-### 4. [📚 Linux Learning Resources](https://github.com/WCSCourses/WCS_Informatics_Guides/blob/main/Participant_Guides/linux_learning.md)
+### 4. [📚 Linux Learning Resources](https://github.com/WCSCourses/WCS_Informatics_Guides/blob/main/Installation_Guides/linux_learning.md)
 If you're new to working in Linux environments, we’ve compiled some beginner-friendly resources to help you get comfortable using the command line and basic file operations—skills essential for many bioinformatics tools.
 
 **Includes:**
