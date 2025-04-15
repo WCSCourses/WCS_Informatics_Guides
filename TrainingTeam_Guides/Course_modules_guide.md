@@ -1,7 +1,7 @@
 # Course Modules Instructions for Training Team
 
 ## Purpose
-This directory contains all course module files, including presentations, practical manuals, and supplementary materials essential for delivering the course content effectively.
+This guide contains all course module files, including presentations, practical manuals, and supplementary materials essential for delivering the course content effectively.
 
 ## Suggested File Types
 - Presentation slides (PowerPoint, Word Documents, PDF)
@@ -9,22 +9,6 @@ This directory contains all course module files, including presentations, practi
 - Supplementary instructional materials </br>
 
 **Important Note**: It is highly advised to convert PowerPoint and Word Documents into PDFs before uploading. 
-
-## Best Practices for Naming Conventions
-To ensure clarity and consistency, please follow these naming conventions for your files:
-- Use descriptive names that reflect the content (e.g., `module_1_overview.pptx`, `module_2_practical_manual.md`).
-- Use lowercase letters and separate words with underscores (_) for better readability.
-- Include version numbers if necessary (e.g., `module_v1.0.pdf`).
-
-## Steps to Add Files via GitHub Interface
-1. **Navigate to the Repository:** Go to the GitHub repository for the course.
-2. **Select the `course_modules` Directory:** Click on the `course_modules` folder to open it.
-3. **Click on "Add file":** On the right-hand side, you’ll see an option labelled **Add file**.
-4. **Choose "Upload files":** From the dropdown menu, select **Upload files**.
-5. **Drag and Drop or Select Files:** You can either drag and drop your files into the space provided or click **choose your files** to upload them from your computer.
-6. **Commit Changes:** Once your files are uploaded, scroll down to the **Commit changes** section. 
-   - Enter a brief description of the changes in the commit message field (e.g., "Adding new module materials").
-   - Click **Commit changes** to finalize your upload.
 
 ## Overview of Manual Development
 Each module manual should encompass the following essential components to ensure a comprehensive learning experience:
@@ -93,6 +77,22 @@ Additionally, please review the [PowerPoint Presentation Template Guide](https:/
 ## Converting Between Markdown and PDF
 Markdown files can be converted to PDF format using Pandoc. For detailed instructions on how to perform this conversion, refer to the following tutorial:
 - [Converting with Pandoc](https://github.com/WCSCourses/format_convert)
+
+## Best Practices for Naming Conventions
+To ensure clarity and consistency, please follow these naming conventions for your files:
+- Use descriptive names that reflect the content (e.g., `module_1_overview.pptx`, `module_2_practical_manual.md`).
+- Use lowercase letters and separate words with underscores (_) for better readability.
+- Include version numbers if necessary (e.g., `module_v1.0.pdf`).
+
+## Steps to Add Files via GitHub Interface
+1. **Navigate to the Repository:** Go to the GitHub repository for the course.
+2. **Select the `course_modules` Directory:** Click on the `course_modules` folder to open it.
+3. **Click on "Add file":** On the right-hand side, you’ll see an option labelled **Add file**.
+4. **Choose "Upload files":** From the dropdown menu, select **Upload files**.
+5. **Drag and Drop or Select Files:** You can either drag and drop your files into the space provided or click **choose your files** to upload them from your computer.
+6. **Commit Changes:** Once your files are uploaded, scroll down to the **Commit changes** section. 
+   - Enter a brief description of the changes in the commit message field (e.g., "Adding new module materials").
+   - Click **Commit changes** to finalize your upload.
 
 ### Helpful Links
 1. [Using Markdown on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)
