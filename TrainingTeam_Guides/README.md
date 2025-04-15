@@ -47,5 +47,5 @@ If you encounter issues or have questions while setting up your environment, ple
 
 ---
 
-Find us on socials [Wellcome Connecting Science Linktr](https://linktr.ee/eventswcs)
+Find us on socials [Wellcome Connecting Science Linktr](https://linktr.ee/eventswcs) <br>
 [Wellcome Connecting Science GitHub Home Page](https://github.com/WCSCourses) 
