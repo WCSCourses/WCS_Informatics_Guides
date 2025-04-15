@@ -9,7 +9,7 @@
 
 This section outlines key documentation to help training teams manage and organize course materials efficiently. Each guide focuses on a specific area of the course content lifecycle—from datasets to session slides.
 
-### 1. [Course Data Guide]()
+### 1. [Course Data Guide](https://github.com/WCSCourses/WCS_Informatics_Guides/blob/main/TrainingTeam_Guides/Course_data_guide.md)
 🗂️ **Purpose:**  
 Provides detailed instructions for organizing, naming, and uploading datasets, practical materials, and supplementary resources.
 
@@ -21,7 +21,7 @@ Provides detailed instructions for organizing, naming, and uploading datasets, p
 
 ---
 
-### 2. [Course Module Guide]()
+### 2. [Course Module Guide](https://github.com/WCSCourses/WCS_Informatics_Guides/blob/main/TrainingTeam_Guides/Course_modules_guide.md)
 📦 **Purpose:**  
 Explains how to organize course content into clear, structured modules aligned with learning outcomes and session flow.
 
@@ -32,7 +32,7 @@ Explains how to organize course content into clear, structured modules aligned w
 
 ---
 
-### 3. [Presentation Guide]()
+### 3. [Presentation Guide](https://github.com/WCSCourses/WCS_Informatics_Guides/blob/main/TrainingTeam_Guides/Slides_guide.md)
 📊 **Purpose:**  
 Outlines how to manage and upload slide decks for each session, including guidelines for sharing internally and with participants.
 
