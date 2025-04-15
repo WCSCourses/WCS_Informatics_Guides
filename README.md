@@ -5,7 +5,7 @@
 [Wellcome Connecting Science GitHub Home Page](https://github.com/WCSCourses) <br /> 
 [Wellcome Connecting Science Website](https://coursesandconferences.wellcomeconnectingscience.org/)
 
-This repository is designed to support the **training team** and **course participants** by providing clear and structured documentation for every stage of the course—from preparation to hands-on execution.
+This repository is designed to support the **training team** and **course attendees** by providing clear and structured documentation for every stage of the course—from preparation to hands-on execution.
 
 ## 📂 Guide Categories
 
