@@ -1,7 +1,7 @@
 # Course Data Instructions for Training Team
 
 ## Purpose
-This directory contains all datasets and supplementary materials which are essential for the course. The files here support the learning objectives and provide the necessary resources for attendees.
+This guide provides instructions for managing all datasets and supplementary materials essential to your course. These files support the learning objectives and enable hands-on engagement for participants.
 
 ## Suggested File Types
 - Datasets (CSV, JSON, SAM, FASTA etc.)
