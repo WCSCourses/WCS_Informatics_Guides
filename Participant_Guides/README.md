@@ -1,35 +1,58 @@
 <img src="https://coursesandconferences.wellcomeconnectingscience.org/wp-content/themes/wcc_courses_and_conferences/dist/assets/svg/logo.svg" width="300" height="50"> 
 
-# Add Course Title
+# Participant Guides
 
 [Wellcome Connecting Science GitHub Home Page](https://github.com/WCSCourses) <br /> 
 [Wellcome Connecting Science Website](https://coursesandconferences.wellcomeconnectingscience.org/)
 
-Add one line description of the course (the same needs to be added on the right side of the page in the description)
+## 📘 Guides Overview
 
-### Summary
+Each guide is tailored to walk you through the steps of setting up your environment, whether you're using a personal machine or a virtual/cloud-based setup. Follow these before the training begins to avoid setup delays during sessions.
 
-Add text here
+### 1. [💾 VirtualBox Installation Guide](https://github.com/WCSCourses/WCS_Informatics_Guides/blob/main/Participant_Guides/VM_Guide.md)
+Learn how to install and run **VirtualBox**, a virtualization tool that allows you to use a full Linux operating system on your Windows or Mac machine. This is helpful for accessing a pre-configured training environment that mirrors what the trainers use.
 
-### Target Audience
+**What you'll find:**
+- Download links for VirtualBox on Intel-chip Mac OS, Linux and Windows
+- Step-by-step screenshots for installation
+- Downloading the course `.vdi` file from Globus
+- How to import `.vdi` virtual machines used in training
 
-Add text here
+---
 
-### Learning outcomes
+### 2. [🐳 Docker Setup Instructions](https://github.com/WCSCourses/WCS_Informatics_Guides/blob/main/Participant_Guides/Docker_guide.md)
+A guide to setting up **Docker**, which allows you to run containerized training environments. This method is faster and more lightweight than a full virtual machine, especially useful for running command-line tools and reproducible analysis pipelines.
 
-Add text here
+**What you'll find:**
+- Installation instructions for Windows, macOS, and Linux
+- How to pull and run the training Docker image
+- Basic Docker commands and troubleshooting tips
 
-### Programme
+---
 
-Add text here
+### 3. [🌐 Google Colab Quick Start Guide](https://github.com/WCSCourses/WCS_Informatics_Guides/blob/main/Participant_Guides/Google_Colab.md)
+Google Colab allows you to write and execute Python/R code in your browser using Google Drive. It’s a great option for participants who cannot install software locally or who want to test scripts in a cloud environment.
 
-**Course Runs**      
+**What you'll find:**
+- How to open and run notebooks on Colab
+- Connecting Colab to Google Drive for saving work
+- Common issues and how to fix them (e.g., runtime limits)
 
-| Course Date | Course Title | Location |Citation DOI |
-|-------------|--------------|----------|-------------|
-| Add Course Run Dates  | [Add Course Run Title](Add Github Repository link) | Location|Citation DOI |
+---
 
-******
+### 4. [📚 Linux Learning Resources](https://github.com/WCSCourses/WCS_Informatics_Guides/blob/main/Participant_Guides/linux_learning.md)
+If you're new to working in Linux environments, we’ve compiled some beginner-friendly resources to help you get comfortable using the command line and basic file operations—skills essential for many bioinformatics tools.
+
+**Includes:**
+- Recommended tutorials and interactive sites
+
+---
+
+## ❓ Need Help?
+
+If you encounter issues or have questions while setting up your environment, please don't hesitate to reach out to the **Informatics Team at Wellcome Connecting Science**. We're here to ensure everyone is prepared and confident before the hands-on sessions begin.
+
+---
 
 ### Citing and Re-using Course Material
 
