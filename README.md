@@ -9,9 +9,9 @@ This repository is designed to support the **training team** and **course partic
 
 ## 📂 Guide Categories
 
-We’ve organized our resources into three main categories to support different roles and needs:
+We’ve organized our resources into three main categories to support different requirements:
 
-## 🧑‍🏫 Training Team Guides
+## 🧑‍🏫 Training Team Course Development Guides
 
 These guides are intended to help instructors and course organizers with **content development, data management, and session planning**. They ensure consistent formatting, smooth integration with virtual tools, and streamlined content delivery.
 
