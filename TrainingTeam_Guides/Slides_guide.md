@@ -1,7 +1,16 @@
 # Presentation/Seminar Slides Instructions
 
 ## Purpose
-This directory is dedicated to hosting all seminar slide files, including presentation materials, supplementary resources, and notes necessary for effectively delivering seminar content.
+This guide is dedicated to all presentation slide files, including presentation materials, supplementary resources, and notes necessary for effectively delivering seminar content.
+
+## Presentation Slides
+
+It is mandatory to include the Wellcome Connecting Science logo in your presentations. You may choose between the following logo options:
+
+- [Wellcome Connecting Science Black Font Logo](https://drive.google.com/file/d/1MEBaLjZTkzt3S2IBbIhEGEJxIhdiARjP/view?usp=sharing)
+- [Wellcome Connecting Science White Font Logo](https://drive.google.com/file/d/1A-HIS0fHFIylwYz_k71xiVWlrWzawf_Z/view?usp=sharing)
+
+Additionally, please review the [PowerPoint Presentation Template Guide](https://docs.google.com/presentation/d/15DPvtwYD-H7YiuNXXLPOa2leQ4ot_TYO/edit?usp=sharing&ouid=104730864282583984566&rtpof=true&sd=true) for further instructions.
 
 ## Suggested File Types
 - Presentation slides (PowerPoint, PDF)
