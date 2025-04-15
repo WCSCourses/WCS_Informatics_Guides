@@ -1,4 +1,4 @@
-# Seminar Slides Directory Instructions
+# Presentation/Seminar Slides Instructions
 
 ## Purpose
 This directory is dedicated to hosting all seminar slide files, including presentation materials, supplementary resources, and notes necessary for effectively delivering seminar content.
