@@ -55,8 +55,8 @@ Overall, VirtualBox offers a flexible and efficient way to run multiple operatin
 ### Installing Microsoft Visual C++ 2019 Redistributable Package (if needed)
 
 1. **Download the Package:**
-   - Visit the official Microsoft download page for the Visual C++ Redistributable: [Download Visual C++ Redistributable](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads).
-   - Scroll down to the **"Visual Studio 2019"** section and choose the appropriate version for your system.
+   - Visit the official Microsoft download page for the Visual C++ Redistributable: [Download Visual C++ Redistributable](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170).
+   - Scroll down and select the **"Latest supported v14 (for Visual Studio 2017–2026)"** section and choose the appropriate version for your system.
 
 2. **Choose the Right Version:**
    - **x86:** For 32-bit operating systems or if you need a 32-bit application on a 64-bit OS.
