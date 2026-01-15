@@ -3,6 +3,9 @@
 [Wellcome Connecting Science GitHub Home Page](https://github.com/WCSCourses) <br /> 
 [Wellcome Connecting Science Website](https://coursesandconferences.wellcomeconnectingscience.org/)
 
+[![Introduction to Google Colab](https://img.youtube.com/vi/FXKMmilL70w/0.jpg)](https://youtu.be/FXKMmilL70w)
+
+
 ## Table of Contents
 1. [What is Google Colab?](#1-what-is-google-colab)
 2. [How Does Google Colab Work?](#2-how-does-google-colab-work)
